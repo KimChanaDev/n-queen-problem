@@ -1,2 +1,2 @@
 # n-queen-problem
-โปรเจครายวิชา EGCO221 DATA STRUCTURES & ALGORITHMS 
+## โปรเจครายวิชา EGCO221 DATA STRUCTURES & ALGORITHMS 
